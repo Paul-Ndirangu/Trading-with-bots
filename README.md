@@ -20,4 +20,26 @@ Follow these steps to set up and start using the trading bot:
 
 2. **Configuration:** Rename `config_sample.yaml` to `config.yaml` and provide your API keys and other configurations required for Binance and TradingView integration.
 
-3. **Strategy Setup:** Define your trading strategies in the `strategies.py` file.
+3. **Strategy Setup:** Define your trading strategies in the `strategies.py` file. Examples of common trading strategies are provided to help you get started.
+
+4. **Run the Bot:** Execute the main bot script using the command `python main.py` to start the live trading bot. The bot will begin executing trades based on your defined strategies.
+
+## Documentation
+
+For detailed information on how to set up, configure, and use the trading bot, please refer to the [User Guide](/docs/user-guide.md).
+
+## Contributing
+
+Contributions to the Live Trading Bot project are welcome! If you find a bug or want to suggest an enhancement, please open an issue in this repository. If you'd like to contribute code, please follow our [Contribution Guidelines](/CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](/LICENSE).
+
+## Disclaimer
+
+Trading cryptocurrencies involves a high level of risk. The developers and contributors of this project are not responsible for any financial losses incurred while using this trading bot. Always perform your own research and consider seeking advice from financial professionals before trading.
+
+---
+
+Happy trading! If you have any questions or need assistance, feel free to contact us at [email@example.com](mailto:email@example.com).
