@@ -42,4 +42,4 @@ Trading cryptocurrencies involves a high level of risk. The developers and contr
 
 ---
 
-Happy trading! If you have any questions or need assistance, feel free to contact us at [email@example.com](mailto:paulmwaura254@gmail.com).
+Happy trading! If you have any questions or need assistance, feel free to contact us at [email@example.com](mailto:email@example.com).
