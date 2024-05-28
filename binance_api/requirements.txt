@@ -23,6 +23,6 @@ typing_extensions==4.7.1
 tzdata==2023.3
 tzlocal==5.0.1
 ujson==5.8.0
-urllib3==2.0.4
+urllib3==2.0.7
 websockets==11.0.3
 yarl==1.9.2
