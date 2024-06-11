@@ -11,7 +11,7 @@ idna==3.7
 multidict==6.0.4
 numpy==1.25.1
 pandas==2.0.3
-pycryptodome==3.18.0
+pycryptodome==3.19.1
 python-binance==1.0.17
 python-dateutil==2.8.2
 pytz==2023.3
